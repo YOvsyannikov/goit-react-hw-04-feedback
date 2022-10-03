@@ -4,7 +4,7 @@
   margin-right: auto;
   padding: 25px;
   box-shadow: var(--boxShadow);
-  border: 2px solid rgb(10, 120, 10);
+  border: 1px dotted rgb(10, 120, 10);
 }
 
 .title {
